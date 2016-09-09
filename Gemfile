@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
+gem 'foundation-rails', '~> 5.5'
 
 group :development, :test do
   gem 'byebug'
